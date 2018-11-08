@@ -24,3 +24,5 @@ db.close()
 print('Success!')
 
 # TODO: Send API request, create class structure diagram
+
+# Hello this is other stuff that I'm Adding
